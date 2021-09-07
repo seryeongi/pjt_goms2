@@ -1,2 +1,2 @@
 # project
-Plus utilities
+About utilities
